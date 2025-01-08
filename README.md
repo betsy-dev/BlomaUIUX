@@ -4,8 +4,10 @@ UI/UX prototype designed on Figma for a university student residence web applica
 •Assigned the role of UI/UX design using Figma to create a user-friendly web application
 streamlining the accommodation application process as a final-year school project at
 North-West University.
+
 • Focused on delivering an intuitive interface to enhance the experience for students and
 administrative staff.
+
 • Developed user flows and a prototype to ensure efficient navigation and accessibility of
 essential information.
 
